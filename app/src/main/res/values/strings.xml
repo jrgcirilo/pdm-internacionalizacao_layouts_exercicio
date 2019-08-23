@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">internacionalizacao_layouts_exercicio</string>
+    <string name="country">Brasil</string>
+    <string name="figureflag">Brasil</string>
+    <string name="figurefood">Feijoada</string>
+    <string name="food">Feijoada</string>
+</resources>
